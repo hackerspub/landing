@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Hackerspub
 
-You can use the [editor on GitHub](https://github.com/hackerspub/landing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are building the largest community of hackers to help secure all things technology. As a community, we will identify and share vulnabilities in heavily used/relied upon systems and applications, we will share patches/resolutions to the vulnabilities if and when we figure them out. It's every organizations' responsibility to keep their systems and platforms safe for their users and clients.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There's no such a thing as a bullet proof system and no one individual or organization knows all their weakneses and how to resolve them. It takes a community, this community to bring out the best in us from all over the world.
 
-### Markdown
+If you want to contribute to this universal good cause, reach out with your contributions by emailing us: h4ck3rspub@gmail.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In the email include:
 
-```markdown
-Syntax highlighted code block
+-What the vulnabilitiy is and which system, software, platform, application, etc
+-
+-How to reproduce the vulnability 
+-
+-The fix if you have identified so that the community can verify it
+-
+-How to reach you in case there's a REWARD
+-
+-Any other details
+-
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hackerspub/landing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
